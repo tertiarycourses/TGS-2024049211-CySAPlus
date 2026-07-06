@@ -1,0 +1,5 @@
+# build artifacts
+skills/_shared/__pycache__/
+skills/_shared/manifest.json
+**/__pycache__/
+*.pyc
